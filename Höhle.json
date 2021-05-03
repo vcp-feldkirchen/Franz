@@ -210,7 +210,7 @@
         {
          "columns":32,
          "firstgid":5068,
-         "image":"wa-fantasy-village-master\/tiles\/c3cert\/base_out_atlas.png",
+         "image":"tiles\/c3cert\/base_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -223,7 +223,7 @@
         {
          "columns":8,
          "firstgid":6092,
-         "image":"wa-fantasy-village-master\/tiles\/c3cert\/dungeon.png",
+         "image":"tiles\/c3cert\/dungeon.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -236,7 +236,7 @@
         {
          "columns":32,
          "firstgid":6156,
-         "image":"wa-fantasy-village-master\/tiles\/c3cert\/terrain_atlas.png",
+         "image":"tiles\/c3cert\/terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
