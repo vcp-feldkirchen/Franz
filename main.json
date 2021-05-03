@@ -253,6 +253,12 @@
          "id":10,
          "name":"jitsi-campfire",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"campfire"
+                }],
          "startx":-16,
          "starty":-16,
          "type":"tilelayer",
