@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"plain.json#startCave"
+                 "value":"H\u00f6hle.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -162,7 +162,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#startCave"
+                 "value":"main.json#startH\u00f6hle"
                 }],
          "type":"tilelayer",
          "visible":true,

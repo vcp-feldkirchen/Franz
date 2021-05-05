@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"H\u00f6hle.json"
+                 "value":"cave.json"
                 }],
          "type":"tilelayer",
          "visible":true,

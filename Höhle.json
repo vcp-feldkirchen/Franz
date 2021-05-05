@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#startH\u00f6hle"
+                 "value":"cave.json#startPlateau"
                 }],
          "type":"tilelayer",
          "visible":true,
